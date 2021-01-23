@@ -183,20 +183,20 @@ Publish the website in the given URL.
 
 ## ADMIN PAGE:
 
-![output](./static/img/06.png)
+![output](./media/photo/06.png)
 
-![output](./static/img/O7.png)
+![output](./media/photo/O7.png)
 
 ## TEMPLATE CODE:
 
-![output](./static/img/O8.png)
+![output](./media/photo/O8.png)
 
-![output](./static/img/O9.png)
+![output](./media/photo/O9.png)
 
 
 ## OUTPUT:
 
-![output](./companyapp/static/img/O1.png)
+![output](./media/photo/O1.png)
 
 ![output](./media/photo/O2.png)
 ![output](./media/photo/O3.png)
@@ -205,10 +205,10 @@ Publish the website in the given URL.
 
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/v1.png)
-![output](./static/img/v2.png)
-![output](./static/img/v3.png)
-![output](./static/img/v4.png)
+![output](./media/photo/v1.png)
+![output](./media/photo/v2.png)
+![output](./media/photo/v3.png)
+![output](./media/photo/v4.png)
 
 
 
