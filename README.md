@@ -182,21 +182,26 @@ Publish the website in the given URL.
 ```
 
 ## ADMIN PAGE:
-![output](./static/img/O6.png)
+
+![output](./static/img/06.png)
+
 ![output](./static/img/O7.png)
 
 ## TEMPLATE CODE:
+
 ![output](./static/img/O8.png)
+
 ![output](./static/img/O9.png)
 
 
 ## OUTPUT:
 
-![output](./static/img/O1.png)
-![output](./static/img/O2.png)
-![output](./static/img/O3.png)
-![output](./static/img/O4.png)
-![output](./static/img/O5.png)
+![output](./companyapp/static/img/O1.png)
+
+![output](./media/photo/O2.png)
+![output](./media/photo/O3.png)
+![output](./media/photo/O4.png)
+![output](./media/photo/O5.png)
 
 
 ## CODE VALIDATION REPORT:
